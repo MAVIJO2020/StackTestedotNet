@@ -1,0 +1,9 @@
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csprojAssemblyReference.cache
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb

@@ -1,0 +1,14 @@
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.deps.json
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.dll
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Service.pdb
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.dll
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Repository.pdb
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csprojAssemblyReference.cache
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfoInputs.cache
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.AssemblyInfo.cs
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CoreCompileInputs.cache
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.csproj.CopyComplete
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.dll
+D:\BOOTCAMP\AVANADE\TestesUniteIntegr\src\Vaquinha.Service\obj\Debug\netcoreapp3.1\Vaquinha.Service.pdb
